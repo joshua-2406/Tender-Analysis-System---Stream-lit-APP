@@ -1,0 +1,9 @@
+streamlit
+pdfplumber or PyMuPDF
+python-docx
+python-pptx
+folium
+streamlit-folium
+anthropic or openai
+requests
+python-dotenv
