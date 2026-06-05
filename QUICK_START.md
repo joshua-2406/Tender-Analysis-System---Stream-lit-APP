@@ -1,7 +1,5 @@
 # Quick Start Guide
 
-## For Your Monday Presentation
-
 ### Step 1: Install Dependencies (One Time Setup)
 
 ```bash
